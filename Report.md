@@ -1,4 +1,4 @@
-# NL2SQL Old vs New (Super Simple)
+# NL2SQL Old vs New 
 
 **What this is:** A tiny comparison. We did **not** change the prompts.
 
